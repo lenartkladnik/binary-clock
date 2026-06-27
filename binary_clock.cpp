@@ -6,7 +6,6 @@
 #include <vector>
 #include <chrono>
 #include <thread>
-#include <bits/stdc++.h>
 
 #ifdef _WIN32
 #include <conio.h>
